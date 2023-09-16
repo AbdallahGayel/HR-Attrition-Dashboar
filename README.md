@@ -27,3 +27,6 @@ Here's a snapshot of the KPIs included in the dashboard:
 11 Attention by material status: Evaluate attrition patterns based on employees' marital status.
 
 The dashboard is designed to provide you with a comprehensive overview of your HR metrics, enabling you to make data-driven decisions and take proactive steps to improve employee retention and satisfaction. 📈💼
+
+![HR-Dash](https://github.com/AbdallahGayel/HR-Attrition-Dashboar/assets/95517146/05ad750c-bc66-49d2-a041-a855f24c3c05)
+
